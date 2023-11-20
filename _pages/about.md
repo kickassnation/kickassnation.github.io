@@ -19,8 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Mobility Service Research Lab aims to develop and innovate the next-generation mobility service and platform. Current focuses of our lab include, but not limited to, future interfaces, systems, software architectures, and hardware devices in mobility services under various environments, including virtual spaces. Our research scope also covers socio-economic/political items in mobility services, such as ESG, NFT, government policy, and standardization.\\
+\\
+Please let me know if you are interested in cooperation with our research lab for future projects or research items.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
