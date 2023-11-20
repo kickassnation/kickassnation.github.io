@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Sujung Building 330, School of Artificial Intelligence (AI) Convergence  <a href='https://www.sungshin.ac.kr'>Sungshin Women's University</a> 
 
 profile:
   align: right
@@ -13,9 +13,9 @@ profile:
     <p>PI: 02-920-7609</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 Mobility Service Research Lab aims to develop and innovate the next-generation mobility service and platform. Current focuses of our lab include, but not limited to, future interfaces, systems, software architectures, and hardware devices in mobility services under various environments, including virtual spaces. Our research scope also covers socio-economic/political items in mobility services, such as ESG, NFT, government policy, and standardization.\\

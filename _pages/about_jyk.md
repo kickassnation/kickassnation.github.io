@@ -1,5 +1,5 @@
 
-Joon Young Kim
+<h3>Joon Young Kim</h3>
 
 Assistant Professor, School of Artificial Intelligence (AI) Convergence  <a href='https://www.sungshin.ac.kr'>Sungshin Women's University</a>
 

@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: List of Members in Mobility Service Research Lab
 nav: true
 nav_order: 6
 
