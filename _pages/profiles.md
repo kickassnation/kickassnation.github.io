@@ -14,15 +14,14 @@ profiles:
     content: about_jyk.md
     image_circular: false # crops the image to make it circular
     more_info: >
+      <p>Sujung Building 708</p>
       <p>02-920-7609</p>
       <p>jkim at sungshin.ac.kr</p>
   - align: left
-    image: prof_pic.jpg
+    image: research_member.jpg
     content: about_students.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Sujung Building 330</p>
 
 ---
