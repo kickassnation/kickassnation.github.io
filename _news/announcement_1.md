@@ -1,10 +1,8 @@
 ---
 layout: post
-date: 2023-11-20
+date: 2015-10-22 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-
-Please send me an email with your cv or resume if you are interested in joining Mobility Service Research Lab as undergraduate members or graduate students.
-
+A simple inline announcement.
