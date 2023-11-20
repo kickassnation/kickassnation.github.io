@@ -17,7 +17,7 @@ profiles:
       <p>Sujung Building 708</p>
       <p>02-920-7609</p>
       <p>jkim at sungshin.ac.kr</p>
-  - align: left
+  - align: right
     image: research_member.jpg
     content: about_students.md
     image_circular: false # crops the image to make it circular

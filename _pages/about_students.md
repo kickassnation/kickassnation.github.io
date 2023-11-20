@@ -1,6 +1,6 @@
 Current research lab members are posted as follows.
-//
-//
+
+
 Current Undergraduate Members (Sorted by Graduating Class):
 
 - Kim, Young Eun. Department of Information Systems Engineering
