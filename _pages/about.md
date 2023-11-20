@@ -18,7 +18,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Mobility Service Research Lab aims to develop and innovate the next-generation mobility service and platform. Current focuses of our lab include, but not limited to, future interfaces, systems, software architectures, and hardware devices in mobility services under various environments, including virtual spaces. Our research scope also covers socio-economic/political items in mobility services, such as ESG, NFT, government policy, and standardization.\\
+Mobility Service Research Lab aims to develop and innovate the next-generation
+mobility service and platform. Current focuses of our lab include, but not
+limited to, future interfaces, robotic systems, software architectures, and hardware
+devices in mobility services under various environments, including virtual
+spaces. Our research scope also covers socio-economic/political items in
+mobility services, such as ESG, NFT, government policy, and standardization.\\
 \\
 Please let me know if you are interested in cooperation with our research lab for future projects or research items.
 
